@@ -41,11 +41,6 @@ Explore the live demo of the app here: [FitMap: Workout Tracker App on Netlify](
 
 ---
 
-## 📱 Responsiveness
-**Note:** The app is currently not responsive for mobile devices. For the best experience, please use a desktop or larger screen.
-
----
-
 ## 🤝 Contributing
 Contributions are welcome! Feel free to open issues or submit pull requests.
 
